@@ -1,11 +1,11 @@
 # MSFS-Mod-Repository
 An open source, license free repository of MSFS mod meta-information. Used by [MSFS Mod Selector](https://github.com/captn-nick/MSFS-Mod-Selector) for automatic mods lookup.
 
-Current Status: **CLOSED** for contributions.
+Current Status: **OPEN** for contributions.
 
-Contributions will be welcome once MSFS Mod Selector hits v. 0.8.
+**Please read [the MSFS mod Selector README](https://github.com/captn-nick/MSFS-Mod-Selector#contributing-to-mod-selectors-online-mod-database) about how to contribute.**
 
-### Restrictions for contributions
+## Restrictions for contributions
 In addition to the [restrictions for registering mods in your local repository](https://github.com/captn-nick/MSFS-Mod-Selector#restrictions), the following rules are enforced for mod registrations for the online mod DB repository:
 * Mod type must not be “Other”.
 * For all non-aircraft mod types, continent must be one of the supported continents except “Other/Fictional”.
