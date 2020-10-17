@@ -9,10 +9,10 @@ Current Status: **OPEN** for contributions.
 In addition to the [restrictions for registering mods in your local repository](https://github.com/captn-nick/MSFS-Mod-Selector#restrictions), the following rules are enforced for mod registrations for the online mod DB repository:
 * Mod type must not be “Other”.
 * For all non-aircraft mod types, continent must be one of the supported continents except “Other/Fictional”.
-* For all non-aircraft mod types, country must be one of the supported countries and must match the continent it is supposed to be linked to.
+* For all non-aircraft mod types, country must be one of the supported countries and must match the continent it is supposed to be linked to. [You can find the complete list of all supported countries here](https://github.com/captn-nick/MSFS-Mod-Selector#concerning-countries-an-explicitly-non-political-statement) and [the default country-to-continent links here.](https://github.com/captn-nick/MSFS-Mod-Selector#concerning-continents-another-explicitly-non-political-statement)
 * For airport mods, ICAO must not be empty; if it is actually unknown / not set / multiple, must be explicitly denoted with a - (minus sign).
 * For all aircraft mod types, continent must be one of the supported continents except “Other/Fictional”, or empty.
-* For all aircraft mod types, country must be one of the supported countries and must match the continent it is supposed to be linked to; or it must be empty.
+* For all aircraft mod types, country must be one of the supported countries and must match the continent it is supposed to be linked to (see above); or it must be empty.
 * For all aircraft mod types, aircraft type must be one of the supported aircraft types.
 * For all mod types, description, author, and url must not be empty, and url must start with either "https://www.flightsim.to/file/” or "https://flightsim.to/file/”. The “www” url is preferred.
 
