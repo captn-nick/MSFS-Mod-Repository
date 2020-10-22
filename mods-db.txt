@@ -1,8 +1,12 @@
+AP	UC	UT	04UT-scenery	04UT	##	04UT Navajo Mountain Airport	bagolu	https://flightsim.to/file/2161/04ut-navajo-mountain-airport
 AP	UC	WA	1rl	1RL	##	Point Roberts Airpark - [1RL]	Deepfield	https://www.flightsim.to/file/1723/point-roberts-airpark-1rl
 AP	UC	NJ	3N6 - Old Bridge Airport	3N6	##	3N6 - Old Bridge Airport	JrPainkiller606	https://www.flightsim.to/file/689/3n6-old-bridge-airport
+AP	EU	NOR	A_ENKA-Kautokeino	ENKA	##	ENKA Kautokeino Airfield	P3r	https://flightsim.to/file/2035/enka-kautokeino-airfield
+AP	EU	NOR	A_ENSQ_Setermoen	ENSQ	##	ENSQ Setermoen Airfield	P3r	https://flightsim.to/file/2137/ensq-setermoen-airfield
 AP	EU	ITA	acaoglid	LILC	##	LILC - Calcinate del Pesce	Jazz82	https://flightsim.to/file/1954/lilc-calcinate-del-pesce
 AP	EU	ITA	acaoobj	LILC	##	LILC - Calcinate del Pesce	Jazz82	https://flightsim.to/file/1954/lilc-calcinate-del-pesce
 AP	EU	GBR	addparking_eglm	EGLM	##	EGLM White Waltham Airfield	frododo	https://www.flightsim.to/file/1058/white-waltham-airfield
+AP	UC	CAN	Airport CYAZ Tofino-v1.0	CYAZ	##	CYAZ Tofino, BC	PropellerBC	https://flightsim.to/file/2107/cyaz-tofino-bc
 AP	UC	CAN	Airport CYCW Chilliwack-v1.0	CYCW	##	CYCW Chilliwack, BC	PropellerBC	https://flightsim.to/file/1873/cycw-chilliwack-bc
 AP	UC	CAN	Airport CYLW Kelowna-v1.4	CYLW	##	Airport CYLW Kelowna	Ciprian Nistor	https://www.flightsim.to/file/1257/airport-cylw-kelowna
 AP	UC	CAN	Airport CYPK PittMeadows	CYPK	##	Airport CYPK PittMeadows	Ciprian Nistor	https://www.flightsim.to/file/1258/airport-cypk-pittmeadows
@@ -56,9 +60,13 @@ AP	AS	CHN	Altay	ZAWW	##	Altay Airport ZAWW v1.0 (China)	Sergio Del Rosso	https:/
 AP	EU	FRA	altisurface-cipieres-lf0652	LF0652	##	Altisurface LF0652 Cipières	Bogdan Zaelu Ghica	https://www.flightsim.to/file/928/altisurface-lf0652-cipieres
 AP	EU	FRA	altisurface-isola2000-lf0621	LF0621	##	Altisurface LF0621 Isola2000	Bogdan Zaelu Ghica	https://www.flightsim.to/file/914/altisurface-lf0621-isola2000
 AP	EU	FRA	altisurface-valberg-lf0654	LF0654	##	Altisurface LF0654 Valberg	zaelu	https://www.flightsim.to/file/1118/altisurface-lf0654-valberg
+CT	EU	DEU	Altstadt	Heidelberg	##	Old Town "Altstadt" Heidelberg	multispeed	https://flightsim.to/file/2113/old-town-altstadt-heidelberg
 LM	EU	NLD	amsterdamtower	Amsterdam	##	Amsterdam Tower + Centraal Station	master414	https://www.flightsim.to/file/318/amsterdam-tower-centraal-station
 LM	EU	GRC	andrew	Patra	##	St Andrew church - Patra	makgreek	https://www.flightsim.to/file/809/st-andrew-church-patra
 LM	EU	FRA	angers	Angers	##	Angers Landmarks	Arva	https://www.flightsim.to/file/1235/angers-landmarks
+CT	EU	BEL	antwerp1-model	Antwerpen	##	Port of Antwerp	Olmecslayer	https://flightsim.to/file/2094/port-of-antwerp
+CT	EU	BEL	antwerp2-model	Antwerpen	##	Port of Antwerp	Olmecslayer	https://flightsim.to/file/2094/port-of-antwerp
+CT	EU	BEL	antwerp3-model	Antwerpen	##	Port of Antwerp	Olmecslayer	https://flightsim.to/file/2094/port-of-antwerp
 LM	EU	BEL	antwerpencentraal	Antwerpen	##	Antwerp Central Station, Belgium	jonasbaine2	https://www.flightsim.to/file/883/antwerp-central-station-belgium
 AP	EU	DNK	ape42-airport-ek76-tunoe	EK76	##	EK76 - Tunø - Airport	Ape42	https://flightsim.to/file/1992/ek76-tuno-airport
 LM	UC	FL	aquilasim-nasa	##	Kennedy Space Center	Acktu	https://www.flightsim.to/file/246/kennedy-space-center
@@ -138,6 +146,8 @@ LM	UC	NY	buffalo	Buffalo	##	Buffalo NY City Hall and McKinley Monument	Domitian	
 LM	AF	ZAF	cablecar1	Cape Town	##	Cape Town Cable Car	JLR29	https://www.flightsim.to/file/1186/cape-town-cable-car
 LM	AF	ZAF	cablecar2	Cape Town	##	Cape Town Cable Car	JLR29	https://www.flightsim.to/file/1186/cape-town-cable-car
 AP	UC	CAN	cal3	CAL3	##	Douglas Lake Airport - [CAL3]	Deepfield	https://www.flightsim.to/file/1670/douglas-lake-airport-cal3
+CT	EU	FRA	calais-model	Calais	##	Port of Calais and town	Olmecslayer	https://flightsim.to/file/2178/port-of-calais-and-town
+CT	EU	FRA	calaisships-model	Calais	##	Port of Calais and town	Olmecslayer	https://flightsim.to/file/2178/port-of-calais-and-town
 AP	EU	GBR	camflyinggroup	EGSC	##	Cambridge Flying Group Area	keyser187	https://www.flightsim.to/file/1544/cambridge-flying-group-area
 AP	UC	IL	campbell	C81	##	Campbell Airport (C81) - Illinois	dantesmante	https://www.flightsim.to/file/1437/campbell-airport-c81-illinois
 LM	EU	GBR	canterburycathedral	Canterbury	##	Canterbury Cathedral	Tackleberry1978	https://www.flightsim.to/file/376/canterbury-cathedral
@@ -163,6 +173,7 @@ AP	SA	ARG	chukakis-cholila	CHO	##	Cholila Lodge Aero Fishing - Patagonia	Chukaki
 AP	SA	ARG	chukakis-loberia	LBI	##	LBI - Aeroclub Loberia	Chukakis	https://www.flightsim.to/file/573/aeroclub-loberia
 LM	EU	ITA	ciminierevaredo	Milano	##	Varedo chimneys (Milan Landmark) v1.0	Sergio Del Rosso	https://www.flightsim.to/file/720/varedo-chimneys-milan-landmark-v1-0
 LM	EU	ESP	CircuitdeBarcelonaCatalunya	Barcelona	##	Circuit de Barcelona-Catalunya	DroidG	https://flightsim.to/file/1844/circuit-de-barcelona-catalunya
+LM	SA	URY	citypackdos	Montevideo	##	Montevideo,city landmarks 2	santymetal23	https://flightsim.to/file/2060/montevideo-city-landmarks-2
 AP	EU	DEU	cjscenery-scenery-eden-bad-hersfeld-rotenburg	EDEN	##	EDEN - Bad Hersfeld	christophjurczyk	https://www.flightsim.to/file/82/eden-bad-hersfeld
 LM	EU	NLD	clioplein	Den Haag	##	The Hague - Clio Plein v2	Geraldar98	https://www.flightsim.to/file/185/the-hague-clio-plein
 AP	EU	POL	cmdesign-epar	EPAR	##	Aeroclub Airport in Bircza EPAR (Poland). 1.0.0	ChrisMaver	https://www.flightsim.to/file/1823/aeroclub-airport-in-bircza-epar-poland-1-0-0
@@ -196,8 +207,10 @@ AP	EU	DEU	desnses-hannover	EDDV	##	Hannover Intl - [EDDV]	desnses	https://www.fl
 AP	EU	FIN	desnses-helsinki	EFHK	##	Helsinki-Vantaa Intl - [EFHK]	desnses	https://flightsim.to/file/1944/helsinki-vantaa-intl-efhk
 AP	UC	TX	desnses-houston	KIAH	##	George Bush Intercontinental (Houston, Texas) - [KIAH]	desnses	https://flightsim.to/file/1880/george-bush-intercontinental-houston-texas-kiah
 AP	UC	CAN	desnses-saint-hubert	CYHU	##	Montreal/Saint-Hubert - [CYHU] + Canadian Space Agency	desnses	https://www.flightsim.to/file/1612/montreal-saint-hubert-cyhu-canadian-space-agency
+AP	EU	AUT	desnses-salzburger-flughafen	LOWS	##	Salzburg Intl - [LOWS]	desnses	https://flightsim.to/file/2148/salzburg-intl-lows
 AP	UC	CAN	desnses-toronto-pearson	CYYZ	##	Toronto Pearson Intl - [CYYZ]	desnses	https://www.flightsim.to/file/1614/toronto-pearson-intl-cyyz
 LS	UC	WY	devilstower-wyoming	##	Devil's Tower	VFXSimmer	https://www.flightsim.to/file/186/devil-s-tower
+AP	UC	AK	dgt-airport-lhd-lake-hood	PALH	##	Lake Hood Airport (PALH), Alaska	DADGAMETIME	https://flightsim.to/file/2041/lake-hood-airport
 AP	UC	AK	dgt-airport-mistyfjords-spbs	-	##	Alaskan Seaplane Bases Volume 1	DADGAMETIME	https://flightsim.to/file/2008/alaskan-seaplane-bases-volume-1
 LF	EU	ESP	diisaster-lebl-monolithfix	Barcelona	##	[FIXED BY ASOBO] Removal of monolith near LEBL (Barcelona)	Diisaster	https://www.flightsim.to/file/111/removal-of-monolith-near-lebl-barcelona
 LM	EU	NLD	dijkzicht	Rotterdam	##	Rotterdam - Erasmus MC - Dijkzicht	Geraldar98	https://www.flightsim.to/file/772/rotterdam-erasmus-mc-dijkzicht
@@ -224,6 +237,8 @@ AP	EU	GBR	egnt	EGNT	##	Newcastle Airport (EGNT) Scenery & Night Lighting Enhance
 AP	EU	GBR	egstscenery	EGST	##	elmsett .suffolk EGST	electricpomme	https://www.flightsim.to/file/889/elmsett-suffolk-egst
 AP	EU	NLD	ehhv_new	EHHV	##	Netherlands - Hilversum Airfield (EHHV) Updated Version!	Geraldar98	https://www.flightsim.to/file/1335/netherlands-hilversum-airfield-ehhv
 AP	EU	NLD	ehkdpackagetest-airport-ehkd-denhelder	EHKD	##	EHKD Den Helder/De Kooy airport	SOXAdevelopment	https://www.flightsim.to/file/985/ehkd-den-helder-de-kooy-airpot
+AP	EU	DNK	ekbo	-	##	Bogense airport	blogfather	https://flightsim.to/file/2084/bogense-airport
+AP	EU	DNK	ekmb	EKMB	##	Lolland Falster Airport	JP	https://flightsim.to/file/2159/lolland-falster-airport
 LM	AS	PRK	ekre-sightseeing-pyongyang-city	Pyongyang	##	Welcome to Pyongyang	ekre	https://www.flightsim.to/file/1174/welcome-to-pyongyang
 AP	OC	AUS	emissair-ybaf	YBAF	##	YBAF - Archerfield	Emissair	https://flightsim.to/file/1899/ybaf-archerfield
 AP	EU	NOR	enbn	ENBN	##	ENBN Brønnøysund Lufthavn	eddrik84	https://www.flightsim.to/file/550/enbn-bronnoysund-lufthavn
@@ -263,6 +278,7 @@ LM	EU	DEU	freiburgermunster	Freiburg	##	Cathedral of Freiburg, Germany	maggifore
 AP	EU	DEU	frombeyond-edth	EDTH	##	EDTH - Heubach (Germany)	br34ker	https://www.flightsim.to/file/715/edth-heubach-germany
 LM	EU	DEU	frombeyond-stuttgart	Stuttgart	##	Stuttgart Landmarks	br34ker	https://www.flightsim.to/file/702/stuttgart-landmarks
 LM	EU	HUN	frombeyond-szeged	Szeged	##	Szeged Landmarks	br34ker	https://www.flightsim.to/file/705/szeged-landmarks
+LM	SA	URY	fuenteyose	Montevideo	##	Montevideo,city landmarks 2	santymetal23	https://flightsim.to/file/2060/montevideo-city-landmarks-2
 LM	EU	DEU	funkturm	Berlin	##	Funkturm Berlin	Ape42	https://www.flightsim.to/file/583/funkturm-berlin
 AP	EU	NOR	fw-airport-envd-vadsoe-elev	ENVD	##	ENVD Elevation fix	Freddy Wilhelmsen	https://www.flightsim.to/file/1350/envd-elevation-fix
 AP	UC	NY	fwas-airport-5b2	5B2	##	Saratoga County Airport - 5B2	JDiPierro	https://www.flightsim.to/file/1680/saratoga-county-airport-5b2
@@ -300,6 +316,7 @@ LM	UC	NY	hudsonyards-nyc	New York	##	Hudson Yards, New York	VFXSimmer	https://ww
 LM	EU	HUN	hvfr-sightseeing-bp-city	Budapest	##	HungaryVFR FS2020	ekre	https://www.flightsim.to/file/397/hungaryvfr-fs2020
 LM	EU	Sco	hydro	Glasgow	##	Glasgow (Scotland) Landmarks	MostlyRandom	https://www.flightsim.to/file/709/glasgow-scotland-landmarks
 LM	EU	Sco	ibrox	Glasgow	##	Glasgow (Scotland) Landmarks	MostlyRandom	https://www.flightsim.to/file/709/glasgow-scotland-landmarks
+AP	UC	ID	id28	ID28	##	ID28 Mackay Bar, Idaho	Milosanx	https://flightsim.to/file/2143/id28-mackay-bar-idaho
 LM	UC	ID	idahocapitol	Boise	##	Boise Landmark Bundle	electronicjump	https://www.flightsim.to/file/214/boise-landmark-bundle
 AP	EU	FIN	iikke-airport-efpn-punkaharju	EFPN	##	EFPN - Punkaharju	iikke	https://www.flightsim.to/file/1325/efpn-punkaharju
 AP	EU	FIN	iikke-efit	EFIT	##	EFIT - Kitee Airport	iikke	https://www.flightsim.to/file/925/efit-kitee-airport
@@ -360,6 +377,7 @@ LM	SA	BRA	kaloca-sp-ponteotaviofrias	São Paulo	##	Sao Paulo Scenary Pack 	kaloc
 AP	UC	CAN	kangiqsujuaq	CYKG	##	Kangiqsujuaq (Wakeham Bay) Airport (CYKG)	Necramonium	https://www.flightsim.to/file/726/kangiqsujuaq-wakeham-bay-airport-cykg
 LM	EU	NLD	kasteelrosendael	##	Arnhem - Castle Rosendael	Geraldar98	https://www.flightsim.to/file/890/arnhem-castle-rosendael
 AP	EU	BEL	kayjaybe-ebgg	EBGG	##	EBGG Overboelare Airfield	kayjaybe	https://flightsim.to/file/1969/ebgg-overboelare-airfield
+AP	EU	BEL	kayjaybe-ebul	EBUL	##	EBUL Ursel Airfield (AB)	kayjaybe	https://flightsim.to/file/2164/ebul-ursel-airfield-ab
 LM	EU	BEL	kbc	Ghent	##	KBC tower, Ghent Belgium	jonasbaine2	https://www.flightsim.to/file/359/kbc-tower-ghent-belgium
 LM	EU	Sco	kelvingrove	Glasgow	##	Glasgow (Scotland) Landmarks	MostlyRandom	https://www.flightsim.to/file/709/glasgow-scotland-landmarks
 LM	EU	GBR	kensingtonpalace	London	##	Kensington Palace	Tackleberry1978	https://www.flightsim.to/file/447/kensington-palace
@@ -380,6 +398,7 @@ AP	UC	NE	klxn	KLXN	##	KLXN - Jim Kelly Field, Lexington, Nebraska	Havoc11	https:
 LM	EU	BEL	Koekelberg	Brussels	##	Basilica of the Sacred Heart, Brussels, Belgium.	iCeManxTT	https://www.flightsim.to/file/1864/basilica-of-the-sacred-heart-brussels-belgium
 LM	EU	DEU	koelnstadioneffzeh	Köln	##	Köln (Cologne) Landmarks | Mini-Pack	PapierfraNZL	https://www.flightsim.to/file/316/cologne-koln-mini-pack
 AP	UC	WA	kors	KORS	##	KORS || Orcas Island Airport	Aircake1	https://flightsim.to/file/1875/kors-orcas-island-airport
+AP	AA	ATA	kp-airport-ycsk-casey	YCSK	##	Casey Station Skiway (YCSK)	FURY	https://flightsim.to/file/2112/casey-station-skiway-ycsk
 AP	UC	WA	kpae	KPAE	##	Paine Field, Everett WA USA - KPAE V2.1	FreakyD	https://www.flightsim.to/file/1136/paine-field-everett-wa-usa-kpae
 LM	EU	NLD	kpnzendmastrtm	Rotterdam	##	Rotterdam - Euromast v2	Geraldar98	https://www.flightsim.to/file/165/rotterdam-euromast
 AP	UC	AR	krbm-training-field	KRB1	##	Camp Robinson Maneuver Training Area	Dodge0359a (aka SabreCat)	https://www.flightsim.to/file/919/camp-robinson-maneuver-training-area
@@ -388,6 +407,7 @@ AP	UC	ID	KRON_MahoneyCreek	-	##	Bush strips in Idaho & Oregon	Kronzky	https://ww
 LM	EU	SWE	kronprinsen	Malmö	##	Malmö, Sweden - Pack	Oggeley	https://www.flightsim.to/file/262/malmo-sweden-pack
 LM	EU	DEU	kstuerme	##	Königstuhl.. Towers..	multispeed	https://www.flightsim.to/file/1676/konigstuhl-towers
 AP	EU	BGR	lbwn	LBWN	##	Varna Airport (LBWN) - Bulgaria	MCRater	https://flightsim.to/file/1973/varna-airport-lbwn-bulgaria
+AP	EU	ESP	lebb	LEBB	##	Bilbao-LEBB airport lights	AlexGCLP1977	https://flightsim.to/file/2109/bilbao-lebb-airport-lights
 LM	EU	DEU	leverkusen_center	Leverkusen	##	Leverkusen Landmarks | Mini-Pack	Papierfranz	https://www.flightsim.to/file/593/leverkusen-mini-pack
 AP	EU	ESP	levx	LEVX	##	Vigo-LEVX airport lights.	AlexGCLP1977	https://flightsim.to/file/1971/vigo-levx-airport-lights
 AP	EU	ESP	lezgairport	LEZG	##	LEZG - Zaragoza Airport, Spain	geeman72	https://www.flightsim.to/file/1797/lezg-zaragoza-airport-spain
@@ -418,6 +438,7 @@ AP	EU	ITA	liri	LIRI	##	Salerno Costa d'Amalfi Airport LIRI v1.1 (Italy)	Sergio D
 AP	EU	ITA	LIRZ	LIRZ	##	LIRZ - Perugia San Francesco d'Assisi – Umbria International Airport	MAG62	https://www.flightsim.to/file/1231/lirz-perugia-san-francesco-d-assisi-umbria-international-airport
 AP	EU	CZE	lkkc	LKKC	##	Krizenec Airport (LKKC)	JezevecCZE	https://flightsim.to/file/2018/krizenec-airport-lkkc
 AP	EU	CZE	lkkv	LKKV	##	Karlovy Vary International Airport	JezevecCZE	https://www.flightsim.to/file/1785/karlovy-vary-international-airport
+AP	EU	CZE	lkpr	LKPR	##	Vaclav Havel Airport - Ruzyne (LKPR)	JezevecCZE	https://flightsim.to/file/2096/vaclav-havel-airport-ruzyne-lkpr
 AP	EU	CZE	lkrk	LKRK	##	Rakovnik Airport	JezevecCZE	https://www.flightsim.to/file/1436/rakovnik-airport
 AP	EU	CZE	lkzd	LKZD	##	Macerka Airport	JezevecCZE	https://www.flightsim.to/file/1408/macerka-airport
 AP	EU	AUT	load	LOAD	##	[LOAD] - Voeltendorf Airfield, Austria	Troglodytus	https://www.flightsim.to/file/1343/load-voeltendorf-airfield-austria
@@ -457,15 +478,30 @@ LM	UC	MI	michiganderflyer-fermi2	##	Michiganderfler-Fermi2	Michiganderflyer	http
 LM	EU	ITA	milanofiera	Milano	##	City Life Milan Landmark	Sergio Del Rosso	https://www.flightsim.to/file/530/city-life-milan
 LM	UC	CAN	mississauga	Toronto	##	Greater Toronto Area Enhancement Pack	romandesign	https://www.flightsim.to/file/538/greater-toronto-area-enhancement-pack
 CT	EU	ITA	montepulciano	##	Montepulciano, Tuscany, Italy	RazorRay	https://www.flightsim.to/file/549/montepulciano-tuscany-italy
+LM	SA	URY	montevideo5torressur	Montevideo	##	Montevideo,city landmarks1	santymetal23	https://flightsim.to/file/2055/montevideo-city-landmarks1
+LM	SA	URY	montevideoanexo	Montevideo	##	Palacio Legislativo - Montevideo Uruguay	unTopo	https://flightsim.to/file/2052/palacio-legislativo-montevideo-uruguay
 AP	SA	URY	montevideobrigadaaerea	SUMU	##	Aeropuerto Internacional de Carrasco - SUMU - Montevideo, Uruguay	unTopo	https://flightsim.to/file/1935/aeropuerot-internacional-de-carrasco-sumu-montevideo-uruguay
+LM	SA	URY	montevideobroucagancha	Montevideo	##	Montevideo,city landmarks 2	santymetal23	https://flightsim.to/file/2060/montevideo-city-landmarks-2
+LM	SA	URY	montevideocerito	Montevideo	##	Montevideo,city landmarks1	santymetal23	https://flightsim.to/file/2055/montevideo-city-landmarks1
+LM	SA	URY	montevideochopin	Montevideo	##	Montevideo, landmarks buceo	santymetal23	https://flightsim.to/file/2049/montevideo-landmarks-buceo
+LM	SA	URY	montevideodiario	Montevideo	##	Montevideo,city landmarks 2	santymetal23	https://flightsim.to/file/2060/montevideo-city-landmarks-2
+LM	SA	URY	montevideoedificiolibertad	Montevideo	##	Montevideo,city landmarks1	santymetal23	https://flightsim.to/file/2055/montevideo-city-landmarks1
+LM	SA	URY	montevideoimm	Montevideo	##	Montevideo,city landmarks1	santymetal23	https://flightsim.to/file/2055/montevideo-city-landmarks1
+LM	SA	URY	montevideomarks	Montevideo	##	Montevideo,city landmarks1	santymetal23	https://flightsim.to/file/2055/montevideo-city-landmarks1
+LM	SA	URY	montevideoobelisco	Montevideo	##	Montevideo,city landmarks1	santymetal23	https://flightsim.to/file/2055/montevideo-city-landmarks1
 AP	SA	URY	montevideooldsumu	SUMU	##	Aeropuerto Internacional de Carrasco - SUMU - Montevideo, Uruguay	unTopo	https://flightsim.to/file/1935/aeropuerot-internacional-de-carrasco-sumu-montevideo-uruguay
+LM	SA	URY	montevideopalaciolegislativo	Montevideo	##	Palacio Legislativo - Montevideo Uruguay	unTopo	https://flightsim.to/file/2052/palacio-legislativo-montevideo-uruguay
+LM	SA	URY	montevideopanam	Montevideo	##	Montevideo, landmarks buceo	santymetal23	https://flightsim.to/file/2049/montevideo-landmarks-buceo
 AP	SA	URY	montevideoplunasumu	SUMU	##	Aeropuerto Internacional de Carrasco - SUMU - Montevideo, Uruguay	unTopo	https://flightsim.to/file/1935/aeropuerot-internacional-de-carrasco-sumu-montevideo-uruguay
+LM	SA	URY	montevideostalucia	Montevideo	##	Montevideo,city landmarks 2	santymetal23	https://flightsim.to/file/2060/montevideo-city-landmarks-2
 AP	SA	URY	montevideosumu	SUMU	##	Aeropuerto Internacional de Carrasco - SUMU - Montevideo, Uruguay	unTopo	https://flightsim.to/file/1935/aeropuerot-internacional-de-carrasco-sumu-montevideo-uruguay
 AP	SA	URY	montevideotorresumu	SUMU	##	Aeropuerto Internacional de Carrasco - SUMU - Montevideo, Uruguay	unTopo	https://flightsim.to/file/1935/aeropuerot-internacional-de-carrasco-sumu-montevideo-uruguay
+LM	SA	URY	montevideowtc	Montevideo	##	Montevideo, landmarks buceo	santymetal23	https://flightsim.to/file/2049/montevideo-landmarks-buceo
 LS	UC	AZ	monumentvalley	##	Monument Valley, Arizona-Utah border (Work In Progress)	Jeppeson2001	https://www.flightsim.to/file/1836/monument-valley-arizona-utah-border-work-in-progress
 LS	UC	SD	mountrushmore	##	Mt. Rushmore Scenery	BluntSmokeTrauma	https://www.flightsim.to/file/501/mt-rushmore-scenery
 AP	EU	DEU	mrmo-airport-edhk-holtenau	EDHK	##	EDHK Kiel-Holtenau	MrMo	https://flightsim.to/file/1920/edhk-kiel-holtenau
 LS	OC	NZL	mtcook	##	Aoraki/Mt Cook and Mt Tasman	spas3man	https://www.flightsim.to/file/260/aoraki-mt-cook-and-mt-tasman
+LM	SA	URY	mvdcitypacktres	Montevideo	##	Montevideo,city landmarks 2	santymetal23	https://flightsim.to/file/2060/montevideo-city-landmarks-2
 AP	EU	POL	mw-epzr-aerial	EPZR	##	EPZR Żar Airport Aerial Photos & General Improvements	Mateusz	https://flightsim.to/file/1948/epzr-zar-airport-aerial-photos-general-improvements
 AP	EU	POL	mw-epzr-scenery	EPZR	##	EPZR Żar Airport Aerial Photos & General Improvements	Mateusz	https://flightsim.to/file/1948/epzr-zar-airport-aerial-photos-general-improvements
 AP	UC	CAN	mycompany-scenery-simple	CYUL	##	Montreal-Trudeau Intl - [CYUL]	desnses	https://www.flightsim.to/file/1556/montreal-trudeau-intl-cyul
@@ -532,6 +568,7 @@ AP	OC	NZL	NZA-Discord_YPKG_Kalgoorlie-Boulder-Scenery-Pack-1.0	YPKG	##	NZA Simul
 LM	UC	CAN	oakville	Toronto	##	Greater Toronto Area Enhancement Pack	romandesign	https://www.flightsim.to/file/538/greater-toronto-area-enhancement-pack
 LM	EU	ESP	oasisoftheseas	Palma de Mallorca	##	Cruise Ships - Palma de Mallorca Harbour V1.1	Lucky1806	https://www.flightsim.to/file/263/cruise-ships-palma-de-mallorca-harbour
 LM	EU	GRC	odeon	Patra	##	Roman Odeon - Patra	makgreek	https://www.flightsim.to/file/810/roman-odeon-patra
+AP	UC	IL	oharelightsimpv3	-	##	Chicago O'Hare (KORD) and surrounding Airports - Night Lighting Improvement	ten10	https://flightsim.to/file/2044/chicago-o-hare-main-terminals-lighting-improvement
 AP	EU	GBR	OthertonAirfield	EGQH	##	Otherton Airfield	johnhumpherson	https://www.flightsim.to/file/1433/otherton-airfield
 LM	EU	DEU	owllandmarks-scene	##	OWL Landmarks, NRW Germany	sleepyt	https://www.flightsim.to/file/557/owl-landmarks-nrw-germany
 LM	EU	ESP	palmacathedral	Palma de Mallorca	##	Palma Cathedral - Palma de Mallorca, Spain	Lucky1806	https://www.flightsim.to/file/277/palma-cathedral-palma-de-mallorca-spain
@@ -547,13 +584,20 @@ AP	EU	DEU	placeholder-airport-etnd-diepholz	ETND	##	ETND - Flugfeld Diepholz	Lar
 AP	UC	AK	placeholder-airport-pafr-anchorage	PAFR	##	PAFR - Bryant AAF Airport	Lari	https://www.flightsim.to/file/136/pafr-bryant-aaf-airport
 LM	EU	GBR	pleasurebeach	Blackpool	##	Blackpool UK landmarks	utd4life12	https://www.flightsim.to/file/279/blackpool-uk-landmarks
 LM	EU	GBR	plymouthhoe	Plymouth	##	Plymouth Hoe	Tackleberry1978	https://flightsim.to/file/2040/plymouth-hoe
+AP	EU	FRA	pm-airport-lf857-saintaubin	LF8571	##	LF8571 SAint Aubin la Plaine	Patmout17	https://flightsim.to/file/2066/lf8571-saint-aubin-la-plaine
+AP	UC	MT	pontiac51-airport-49s-babb	49S	##	49S - Babb	Pontiac51	https://flightsim.to/file/2064/babb-49s
+AP	UC	MT	pontiac51-airport-m35-lindeyslandingwest	M35	##	M35 - Lindey's Landing West	Pontiac51	https://flightsim.to/file/2062/lindey-s-landing-west-m35
+CT	EU	DEU	portHH	Hamburg	##	Port of Hamburg	Tribalowski	https://flightsim.to/file/2069/port-of-hamburg
 LM	EU	PRT	Porto_landmarks	##	Porto Landmarks Portugal	Fulcrum	https://www.flightsim.to/file/1734/porto-landmarks-portugal
+CT	EU	NLD	portRT	Rotterdam	##	Port of Rotterdam	Tribalowski	https://flightsim.to/file/2110/port-of-rotterdam
 AP	EU	FRA	potdemiel-clermontferrandairport	LFLC	##	Aéroport Aulnat | Clermont-Ferrand | Auvergne | LFLC	PotDeMiel	https://www.flightsim.to/file/683/aeroport-aulnat-clermont-ferrand-auvergne-lflc
 AP	EU	IRL	pox-airport-einn-shannon	EINN	##	Shannon Airport (EINN)	poxbottle	https://www.flightsim.to/file/1847/shannon-airport-einn
 LM	EU	Sco	ppalace	Glasgow	##	Glasgow (Scotland) Landmarks	MostlyRandom	https://www.flightsim.to/file/709/glasgow-scotland-landmarks
 LM	UC	HI	projectionist-pearlharbor	##	Pearl Harbor, Hawaii	Projectionist	https://www.flightsim.to/file/317/pearl-harbor-hawaii
 LM	EU	ESP	Puente de Rande	##	Rande Bridge	carllevx	https://www.flightsim.to/file/1240/rande-bridge
 LM	EU	AUT	pyramidenkogel	##	Pyramidenkogel - Carinthia, Austria	Troglodytus	https://www.flightsim.to/file/943/pyramidenkogel-carinthia-austria
+AP	EU	ITA	quelcertoleo-lidt-trento	LIDT	##	Trento-Mattarello Gianni Caproni airport (LIDT)	quelcertoleo	https://flightsim.to/file/2077/trento-mattarello-gianni-caproni-airport-lidt
+AP	EU	ITA	quelcertoleo-liiz-garda	LIIZ	##	Aviosuperficie Carzago Riviera (LIIZ) - Italy	quelcertoleo	https://flightsim.to/file/2160/aviosuperficie-carzago-riviera-liiz-italy
 AP	EU	ITA	quelcertoleo-limj-genova	LIMJ	##	Genova Cristoforo Colombo airport (LIMJ) - Italy	quelcertoleo	https://flightsim.to/file/1912/genova-cristoforo-colombo-airport-limj-italy
 AP	EU	ITA	quelcertoleo-lipb-bolzano	LIPB	##	Bolzano San Giacomo airport (LIPB) - Italy	quelcertoleo	https://flightsim.to/file/2032/bolzano-san-giacomo-airport-lipb-italy
 AP	EU	ITA	quelcertoleo-lipe-lights	LIPE	##	Bologna Guglielmo Marconi airport (LIPE) missing lights	quelcertoleo	https://flightsim.to/file/1994/bologna-guglielmo-marconi-airport-missing-lights
@@ -580,6 +624,7 @@ AP	UC	MI	rk-y70	Y70	##	[Release] Mid-Michigan Airport GA Field Pack	TheGuyWithAR
 LM	EU	DEU	ruhrcoolingtowers	##	Ruhr Area Cooling Towers	High_Frame_Rates	https://www.flightsim.to/file/142/ruhr-area-cooling-towers
 AP	SA	ARG	rwy13-sael	SAEL	##	Aerodromo Las Flores	RWY13AR	https://www.flightsim.to/file/1558/aerodromo-las-flores
 AP	UC	WA	s43	S43	##	Harvey Field, Snohomish WA USA - S43	FreakyD	https://flightsim.to/file/1991/harvey-field-snohomish-wa-usa-s43
+AP	UC	ID	s81	S81	##	S81 Indian Creek, Idaho	Milosanx	https://flightsim.to/file/2145/s81-indian-creek-idaho
 AP	EU	NOR	sa-henning	-	##	Henning Airport	Sondre Andreassen	https://www.flightsim.to/file/387/henning-airport
 LF	EU	DEU	saarloopfixgs	##	Water elevation fix for the well-known Saarschleife (Saar Bow) in Germany	ten10	https://flightsim.to/file/1985/water-elevation-fix-for-the-well-known-saarschleife-saar-loop-in-germany
 AP	SA	ARG	SADI_Aerodromo de Chascomus	SADI	##	SADI Aerodromo de Chascomus	t4ka78 ( exportado de ChascomusX de Guillermo Posadas )	https://www.flightsim.to/file/1581/sadi-aerodromo-de-chascomus
@@ -621,6 +666,7 @@ AP	SA	COL	skui	SKUI	##	SKUI - Aeropuerto El Carano - Quibdo	leandrocsousa	https:
 AP	SA	BRA	snio	SNIO	##	SNIO - Aeroporto de Caldas de Cipó - BA	leandrocsousa	https://www.flightsim.to/file/1779/snio-aeroporto-de-caldas-de-cipo-ba
 AP	EU	GBR	southamptondocksfix	EGHI	##	Southampton airport & docks improvement add-on	DOR RAGER	https://www.flightsim.to/file/217/southampton-airport-docks-improvement-add-on
 LM	EU	Sco	southerng	Glasgow	##	Queen Elizabeth University Hospital, Glasgow	MostlyRandom	https://www.flightsim.to/file/805/queen-elizabeth-university-hospital-glasgow
+AP	UC	MD	southpawproductions-airport-kapg-army	KAPG	##	KAPG - Phillips Army Airfield	moneyman	https://flightsim.to/file/2056/kapg-phillips-army-airfield
 LM	EU	GBR	southpier	Blackpool	##	Blackpool UK landmarks	utd4life12	https://www.flightsim.to/file/279/blackpool-uk-landmarks
 AP	EU	NLD	spoorobjecten-airport-eheh-eindhoven	EHEH	##	Eindhoven Airport / EHEH - incl Custom Buildings	Spoorobjecten	https://www.flightsim.to/file/785/eindhoven-airport-eheh-incl-custom-buildings
 AP	EU	NLD	spoorobjecten-navdata	EHEH	##	Eindhoven Airport / EHEH - incl Custom Buildings	Spoorobjecten	https://www.flightsim.to/file/785/eindhoven-airport-eheh-incl-custom-buildings
@@ -656,6 +702,9 @@ LM	EU	GBR	themescrossingm25	Dartford	##	QE2 Bridge Dartford Crossing	Tackleberry
 LM	EU	CHE	theoli4d-uetlituermev2x	Zürich	##	Uetliberg TV Tower and Lookout Tower Zurich/Zürich	THEOLI4D	https://www.flightsim.to/file/1925/uetliberg-tv-tower-and-lookout-tower-zurich-zurich
 LM	UC	PA	threemileisland	##	Three Mile Island - Pennsylvania USA	High_Frame_Rates	https://www.flightsim.to/file/114/three-mile-island-pennsylvania-usa
 LM	EU	GBR	tinshillbttower	##	Tinshill BT Tower near Leeds/Bradford Airport (EGNM)	Jeppeson2001	https://www.flightsim.to/file/733/tinshill-bt-tower-near-leeds-bradford-airport-egnm
+LM	UC	NJ	tomg-absecon	##	Absecon Lighthouse, Atlantic City, NJ	Tankminder (Tom G)	https://flightsim.to/file/2102/absecon-lighthouse-atlantic-city-nj
+LM	UC	NJ	tomg-barney	##	Barnegat Lighthouse, Barnegat Light, New Jersey	Tankminder (Tom G)	https://flightsim.to/file/2068/barnegat-lighthouse-barnegat-light-new-jersey
+LM	UC	NJ	tomg-capemaylight	##	Cape May Lighthouse, Cape May New Jersey	Tankminder (Tom G)	https://flightsim.to/file/2067/cape-may-lighthouse-cape-may-new-jersey
 LM	EU	ITA	torremediaset	Milano	##	Mediaset Tower V1.1 Milan Landmark	Blinn	https://www.flightsim.to/file/561/mediaset-tower-milan-v1-1-light-fix
 LM	EU	ITA	torrerozzano	Milano	##	Telecom Italia Tower v1.1 Milan Landmark	Sergio Del Rosso	https://www.flightsim.to/file/588/telecom-italia-tower-milan-v1-1
 LM	SA	CHL	torretelefonica	Santiago de Chile	##	Torre Telefónica Santiago de Chile	rodacev30	https://www.flightsim.to/file/491/torre-telefonica-santiago-de-chile
@@ -704,6 +753,7 @@ AP	EU	ITA	xlilu	XLILU	##	Locher Airfield	Yetty	https://www.flightsim.to/file/597
 AP	OC	AUS	ykbn	YKBN	##	YKBN Kooralbyn Airport QLD	Milosanx	https://www.flightsim.to/file/1753/ykbn-kooralbyn-airport-qld
 AP	OC	AUS	ymigpack	YMIG	##	YMIG - Mittagong	LUKESS	https://www.flightsim.to/file/855/ymig-mittagong
 AP	OC	AUS	ymmbmoor	YMMB	##	YMMB Moorabbin airport	SixDegrees	https://www.flightsim.to/file/182/ymmb-moorabbin-airport
+AP	OC	AUS	ynob	YNOB	##	YNOB Nobby's Creek-Murwillumbah-NSW	Milosanx	https://flightsim.to/file/2097/ynob-nooby-s-creek-murwillumbah-nsw
 LM	EU	GBR	yorkminster	York	##	York Minster	Jeppeson2001	https://www.flightsim.to/file/458/york-minster
 LS	UC	CA	yosemite-valley	##	Yosemite Valley	VFXSimmer	https://www.flightsim.to/file/384/yosemite-valley
 AP	UC	CAN	zep35-cau8-riversinlet_v1.1	CAU8	##	CAU8 Rivers Inlet Airport	Zepingouin35	https://www.flightsim.to/file/1288/cau8-rivers-inlet-airport
