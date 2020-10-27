@@ -6,7 +6,7 @@ Current Status: **OPEN** for contributions.
 **Please read [the MSFS mod Selector README](https://github.com/captn-nick/MSFS-Mod-Selector#contributing-to-mod-selectors-online-mod-database) about how to contribute.**
 
 ## Restrictions for contributions
-In addition to the [restrictions for registering mods in your local repository](https://github.com/captn-nick/MSFS-Mod-Selector#restrictions), the following rules are enforced for mod registrations for the online mod DB repository:
+In addition to the [restrictions for registering mods in your local repository](https://github.com/captn-nick/MSFS-Mod-Selector#modstxt-entry-restrictions), the following rules are enforced for mod registrations for the online mod DB repository:
 * Mod type must not be “Other”.
 * For all non-aircraft mod types, continent must be one of the supported continents except “Other/Fictional”.
 * For all non-aircraft mod types, country must be one of the supported countries and must match the continent it is supposed to be linked to. [You can find the complete list of all supported countries here](https://github.com/captn-nick/MSFS-Mod-Selector#concerning-countries-an-explicitly-non-political-statement) and [the default country-to-continent links here.](https://github.com/captn-nick/MSFS-Mod-Selector#concerning-continents-another-explicitly-non-political-statement)
